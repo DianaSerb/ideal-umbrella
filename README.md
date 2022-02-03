@@ -1,2 +1,2 @@
 # ideal-umbrella
-This is a repository that contains exercises that helped me learn Java
+A comprehensive set of tutorials and exercises targeting the learning basics of programming with Java.
